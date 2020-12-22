@@ -10,6 +10,9 @@ public class matrix {
 		}
 		
 			System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
+		
 		}
        
 	}
